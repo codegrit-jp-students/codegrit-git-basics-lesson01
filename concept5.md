@@ -12,11 +12,11 @@ https://ja.atlassian.com/software/sourcetree
 
 インストールが完了したらアプリケーションを開いてみましょう。
 
-![Sourcetree1](../images/sourcetree1.png)
+![Sourcetree1](./images/sourcetree1.png)
 
 すると上記の画像のような画面が出て来ると思いますので、git_testのフォルダをこの点線部分の中にドラッグしてみましょう。
 
-![Sourcetree2](../images/sourcetree2.png)
+![Sourcetree2](./images/sourcetree2.png)
 
 これで無事紐付けが完了しました。
 
@@ -24,7 +24,7 @@ https://ja.atlassian.com/software/sourcetree
 
 紐付けが完了したら、git_testの部分をダブルクリックして見て下さい。すると次のような画面が開きます。
 
-![Sourcetree3](../images/sourcetree3.png)
+![Sourcetree3](./images/sourcetree3.png)
 
 ここでコミットメッセージが並んだ部分をクリックすると、下のパネルでどのような変更が行われたのかを簡単に見ることが出来ます。
 

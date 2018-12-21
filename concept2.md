@@ -6,7 +6,7 @@
 
 [Git - Downloads](https://git-scm.com/downloads)
 
-![Gitのインストール1](../images/install_git1.png) 
+![Gitのインストール1](./images/install_git1.png) 
 
 2. インストール
 
